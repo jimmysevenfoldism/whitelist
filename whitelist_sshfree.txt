@@ -1,5 +1,4 @@
 #ads
 
-@@||kituweh.xyz^$important
-
-@@||sshinjector.net^$important
+@@||kituweh.xyz^
+@@||sshinjector.net^
